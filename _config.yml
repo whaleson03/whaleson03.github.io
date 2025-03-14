@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Wendi Liang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Senior Student"
+  location         : "Hong Kong, China"
+  employer         : "Chinese University of Hong Kong"
   uri              : # URL
   email            : "none@example.org" 
 
