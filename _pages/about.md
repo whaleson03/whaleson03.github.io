@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wendi's Homepage"
+title: "Welcome to my site!"
 author_profile: true
 redirect_from: 
   - /about/
