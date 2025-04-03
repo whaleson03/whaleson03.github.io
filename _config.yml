@@ -22,7 +22,7 @@ repository               : "whaleson03/whaleson03.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "add.png"
+  avatar           : "test2.png"
   name             : "Wendi Liang"
   pronouns         : # example: "she/her"  
   bio              : "Senior Student"
