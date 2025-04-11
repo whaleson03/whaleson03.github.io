@@ -12,6 +12,8 @@ Looking for '26 Fall Phd in Robotics ...
 
 Hello, I’m Wendi Liang, a senior year student major in mechanical engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/me/). I’m an incoming research assistant supervised by Prof. Hongliang Ren at [The Chinese University of Hong Kong](https://www.ee.cuhk.edu.hk/en-gb/).
 
+My research interests lie in continuum, and soft flexible robots, intelligent medical robotics, and robotic perception. My long-term research is to enhance the automation and intelligence of medical robots. Toward this goal, I am particularly interested in the following two topics: 1) application of generalizable, low-complexity, and control-efficient robotic models in medical robotics to enable adaptive and safe interaction. 2) applying robot learning methods to continuum, soft, and flexible robots to enable adaptive control and perception in complex, underactuated systems.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
