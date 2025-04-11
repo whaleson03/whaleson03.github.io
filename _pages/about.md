@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Looking for '26 Fall Phd in Robotics ...
-------
+======
 
 Hello, I’m Wendi Liang, a senior year student major in mechanical engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/me/). I’m an incoming research assistant supervised by Prof. Hongliang Ren at [The Chinese University of Hong Kong](https://www.ee.cuhk.edu.hk/en-gb/).
 
