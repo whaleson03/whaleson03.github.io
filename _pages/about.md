@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Looking for '26 Fall Phd in Robotics ...
+Looking for '26 Fall Phd in Robotics
 ======
 
-Hello, I’m Wendi Liang, a senior year student major in mechanical engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/me/). I’m an incoming research assistant supervised by Prof. Hongliang Ren at [The Chinese University of Hong Kong](https://www.ee.cuhk.edu.hk/en-gb/).
+Hello, I’m Wendi Liang, a senior year student major in mechanical engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/me/). I’m an incoming research assistant supervised by Prof. Hongliang Ren at [The Chinese University of Hong Kong](https://www.ee.cuhk.edu.hk/en-gb/). Last summer, I have spent a great summer doing research assistant at A.I.R. Lab, Uwaterloo under supervised by [Prof. Yue Hu](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/y526hu). I was also honored to become a student research assistant under supervision of Prof. [Henry Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-prof/) at Bio Robotics Lab, PolyU.
 
 My research interests lie in continuum, and soft flexible robots, intelligent medical robotics, and robotic perception. My long-term research is to enhance the automation and intelligence of medical robots. Toward this goal, I am particularly interested in the following two topics: 1) application of generalizable, low-complexity, and control-efficient robotic models in medical robotics to enable adaptive and safe interaction. 2) applying robot learning methods to continuum, soft, and flexible robots to enable adaptive control and perception in complex, underactuated systems.
 
+<!-- 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -51,4 +52,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
