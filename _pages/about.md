@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Looking for 26 Fall Phd position
+Looking for Fall 2026 Phd position
 ------
 Hello! I'm Wendi Liang, currently a senior-year student majoring in Mechanical Engineering at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/me/)). I am an incoming research assistant under the supervision of Prof. Hongliang Ren at The Chinese University of Hong Kong ([CUHK](https://www.ee.cuhk.edu.hk/en-gb/)). Previously, I conducted research under the supervision of [Prof. Henry Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-prof/) at PolyU's Bio-Robotics Lab and [Prof. Yue Hu](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/y526hu) at the Active and Interactive Robotics (A.I.R.) Lab, University of Waterloo.
 
