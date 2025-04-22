@@ -13,7 +13,7 @@ Hello! I'm Wendi Liang, currently a senior-year student majoring in Mechanical E
 
 My research experience covers various aspects and applications of robotics. Initially, I developed a platform to remotely control a robotic arm using virtual reality (VR) devices. Subsequently, at the Bio-Robotics Lab at PolyU, I applied reinforcement learning methods to continuum robot models. At the Active and Interactive Robotics (A.I.R.) Lab, University of Waterloo, I further explored the application of reinforcement learning in enhancing human-robot interactions.
 
-I am actively seeking PhD opportunities starting Fall 2026. I am eager to connect with fellow researchers and mentors during RoboSoft and beyond.
+I am actively seeking PhD opportunities starting Fall 2026. I am eager to connect with fellow researchers and mentors during RoboSoft 2025 and beyond.
 
 
 <!-- 
