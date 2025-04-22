@@ -4,4 +4,4 @@ excerpt: "Detailed information will be updated soon<br/><video src='/images/info
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project presents the development of a bio-inspired robotic fish integrating cable-driven propulsion, depth control via pectoral fins, and OpenMV-based real-time visual tracking for autonomous underwater navigation.
