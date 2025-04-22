@@ -7,14 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Looking for '26 Fall Phd in Robotics
+Looking for 26 Fall Phd position
 ------
-
-Hello, I’m Wendi Liang, a senior year student major in mechanical engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/me/). I’m an incoming research assistant supervised by Prof. Hongliang Ren at [The Chinese University of Hong Kong](https://www.ee.cuhk.edu.hk/en-gb/). Last summer, I have spent a great summer doing research assistant at A.I.R. Lab, Uwaterloo under supervised by [Prof. Yue Hu](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/y526hu). I was also honored to become a student research assistant under supervision of [Prof. Henry Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-prof/) at Bio Robotics Lab, PolyU.
-
-My research interests lie in continuum, and soft flexible robots, intelligent medical robotics, and robotic perception. My long-term research is to enhance the automation and intelligence of medical robots. Toward this goal, I am particularly interested in the following two topics: 1) application of generalizable, low-complexity, and control-efficient robotic models in medical robotics to enable adaptive and safe interaction. 2) applying robot learning methods to continuum, soft, and flexible robots to enable adaptive control and perception in complex, underactuated systems.
-
-My research experience covers various application aspects of robotics. I started my robotics journey from building a platform to remotely control a robotic arm using a VR device to applying reinforcement learning to a model of a continuum robot at Bio Robotics Lab. I explored how reinforcement learning can be applied to human-robot interaction applications in A.I.R. lab.
+Hello! I'm Wendi Liang, currently a senior-year student majoring in Mechanical Engineering at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/me/)). I am an incoming research assistant under the supervision of Prof. Hongliang Ren at The Chinese University of Hong Kong ([CUHK]((https://www.ee.cuhk.edu.hk/en-gb/)). Previously, I conducted research under the supervision of [Prof. Henry Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-prof/) at PolyU's Bio-Robotics Lab and [Prof. Yue Hu](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/y526hu) at the Active and Interactive Robotics (A.I.R.) Lab, University of Waterloo.
 
 <!-- 
 A data-driven personal website
