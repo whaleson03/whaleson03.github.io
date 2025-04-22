@@ -1,6 +1,6 @@
 ---
-title: "portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><video src='/images/info_page.mov' controls width='500' height='300'></video>"
+title: "Design and Development of a Smart Robotic Fish: Cable-Driven Actuation, Adaptive Depth Control, and Vision-Based Tracking"
+excerpt: "Detailed information will be updated soon<br/><video src='/images/info_page.mov' controls width='500' height='300'></video>"
 collection: portfolio
 ---
 
