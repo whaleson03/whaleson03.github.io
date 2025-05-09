@@ -9,7 +9,7 @@ redirect_from:
 
 Looking for Fall 2026 PhD opportunities
 ------
-Hello! I'm Wendi Liang, currently a senior-year student majoring in Mechanical Engineering at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/me/)). Currently, I conducted research under the supervision of [Prof. Henry Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-prof/) at PolyU's Bio-Robotics Lab and [Prof. Yue Hu](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/y526hu) at the Active and Interactive Robotics (A.I.R.) Lab, University of Waterloo.
+Hello! I'm Wendi Liang, currently a senior-year student majoring in Mechanical Engineering at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/me/)). Currently, I conducted research under the supervision of [Prof. Henry Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-prof/) at PolyU's Bio-Robotics Lab. Last Summer, I had the opportunity to work as a research intern at the Active and Interactive Robotics (A.I.R.) Lab under the supervision of [Prof. Yue Hu](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/y526hu) at the University of Waterloo. 
 
 My research experience covers various aspects and applications of robotics. Initially, I developed a platform to remotely control a robotic arm using virtual reality (VR) devices. Subsequently, at the Bio-Robotics Lab at PolyU, I applied reinforcement learning methods to continuum robot models. At the Active and Interactive Robotics (A.I.R.) Lab, University of Waterloo, I further explored the application of reinforcement learning in enhancing human-robot interactions.
 
