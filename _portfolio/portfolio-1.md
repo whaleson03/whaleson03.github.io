@@ -1,6 +1,6 @@
 ---
 title: "Design and Development of a Smart Robotic Fish: Cable-Driven Actuation, Adaptive Depth Control, and Vision-Based Tracking"
-excerpt: "Detailed information will be updated soon<br/><video src='/images/info_page.mov' controls width='500' height='300'></video>"
+excerpt: "Detailed information will be updated soon<br/><video src='/images/info_page.mov' autoplay loop muted playsinline controls width='500' height='300'></video>"
 collection: portfolio
 ---
 
