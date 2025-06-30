@@ -8,4 +8,4 @@ collection: projects
 
 Our final year project presents the development of a bio-inspired robotic fish integrating cable-driven propulsion, depth control via pectoral fins, and OpenMV-based real-time visual tracking with a motion compensation algorithm to mitigate moving-induced visual disturbances for autonomous underwater navigation. 
 
-[Project Video](https://youtu.be/Ezket3g-n5Y) 
+[**Project Video**](https://youtu.be/Ezket3g-n5Y) 
