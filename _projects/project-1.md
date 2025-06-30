@@ -1,5 +1,5 @@
 ---
-title: "Design and Development of a Smart Robotic Fish: Cable-Driven Actuation, Adaptive Depth Control, and Vision-Based Tracking"
+title: "Design and Development of a Smart Robotic Fish"
 excerpt: "<br/><video src='/images/info_page.mov' autoplay loop muted playsinline controls width='500' height='300'></video>"
 award: "ASMPT Technology Award 2025 (Bronze Award)"
 video_link: "https://youtu.be/Ezket3g-n5Y"
