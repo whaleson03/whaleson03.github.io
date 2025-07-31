@@ -84,6 +84,7 @@ layout: default
 
     <article>
       <div class="cv">
+        {% unless page.hide_cv_sections %}
         {% for data in site.data.resume %}
           {% if site.jsonresume and site.jsonresume.size > 0 %}
             {% unless site.jsonresume contains data[0] %}
@@ -126,6 +127,7 @@ layout: default
             </div>
           </div>
         {% endfor %}
+        {% endunless %}
       </div>
     </article>
   </div>
