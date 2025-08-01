@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
+title: Robotic Fish
 description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: robotics
-related_publications: true
+related_publications: fasle
 ---
 
 Every project has a beautiful feature showcase page.
