@@ -2,7 +2,7 @@
 layout: page
 title: Robotic Fish
 description: with background image
-img: assets/video/robotic_fish.mp4
+# img: assets/img/robotic_fish.gif
 importance: 1
 category: robotics
 related_publications: fasle
