@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ":grin: Looking for **Fall 2026** PhD opportunities!"
+subtitle: Looking for *Fall 2026* PhD opportunities!
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
