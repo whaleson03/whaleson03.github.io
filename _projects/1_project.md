@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robotic Fish
-description: with background image
+description: Bio-inspired, Vision-based tracking, Cable-driven
 img: assets/img/robotic_fish.gif
 importance: 1
 category: robotics
