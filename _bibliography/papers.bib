@@ -13,14 +13,12 @@
    award_name={Spotlight Paper},
 }
 
- @inproceedings{robosoft2025,
-   title={Geometric-Aware Attention Networks with Adaptive Constraint Adjustment for Static Modeling of Tendon-driven Continuum Robots},
-   author={Xu, Xin and Song, Yang and Su, Bowen and Wu, Ke and Wu, Di and Liang, Wendi and Zheng, Gang and Chu, Henry K.},
-   abstract={We propose a geometry-aware attention network (GAANet) for end-to-end static modeling of tendon-driven continuum robots with hyper-redundant DOFs, integrating domain-specific geometric constraints and demonstrably outperforming a multilayer perceptron (MLP) and a pseudo rigid body model (PRBM) in terms of tip position accuracy and real-time feasibility.},
-   booktitle={Proceedings of the 8th IEEE-RAS International Conference on Soft Robotics},
+@inproceedings{cras2025,
+   title={Cycle-Consistent Neural Networks for High-Precision Force-Position Mapping in Tendon-driven Surgical Soft Robot},
+   author={Song, Yang and Su, Bowen and Liang, Wendi and Wu, Di and Xu, Xin},
+   abstract={Accurate mapping of force and position is crucial for the management of tendon-driven surgical soft robot. We introduce a neural network framework that maintains cycle consistency, which incorporates an encoder-decoder based on convolutional neural networks (CNN) for translating force to position (measured in Newtons and meters) and a model based on Kolmogorov-Arnold networks (KAN) for the inverse kinetostatic mapping from position to force. A combined training approach, which includes distinct training phases followed by joint fine-tuning with the incorporation of cycle consistency loss, guarantees that closed-loop consistency is preserved. When tested in a tendon-driven soft robotic data set, our model demonstrates exceptional accuracy without load (forward mean square error: 0.000148 m²; inverse mean squared error: 0.0098 N²) and maintains strong performance under load conditions (forward mean squared error: 0.000337 m²; inverse mean squared error: 0.0376 N²). The cycle consistency errors are minimal (0.000217 m² without load, 0.000347 m² with load), confirming the validity of the physical consistency. With prediction durations between 0.15 and 0.25 ms per sample, this framework supports real-time control, validated through closed-loop experimental results.},
+   booktitle={Proceedings of the 14th Conference on New Technologies for Computer/Robot Assisted Surgery},
    year={2025},
-   abbr={RoboSoft},
-   pdf={robosoft2025_1.pdf},
-   award={This paper is selected as **spotlight** paper},
-   award_name={Spotlight Paper},
+   abbr={CRAS},
+   pdf={cras2025_1.pdf},
 }
