@@ -403,7 +403,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-robotic-fish",
           title: 'Robotic Fish',
-          description: "with background image",
+          description: "Bio-inspired, Vision-based tracking, Cable-driven",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
